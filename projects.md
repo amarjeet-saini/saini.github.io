@@ -1,7 +1,5 @@
-# Programming
+# Projects
 
-* [Websites](/programming/websites)
-* [Data Analysis](/programming/data_analysis)
-* [Bots](/programming/bots)
-* [Webscraping](/programming/webscraping)
-* [Misc](/programming/misc)
+* [System Projects](/projects/websites)
+* [Webscraping](/projects/webscraping)
+* [Misc](/projects/misc)
