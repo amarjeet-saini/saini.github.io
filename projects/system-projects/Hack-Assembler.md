@@ -13,7 +13,7 @@ Hack assembly language consist of two types of instruction <br />
 ##### A-instruction: @value
 A-instruction (addressing instruction) assigns value of const to register A eg: A <- const  <br /> 
 ROM[A] register is selected (ROM : Read only memory act as instruction memory)  <br /> 
-##### C-instruction: dest=comp;jump <br /> 
+##### C-instruction: dest=comp;jump
 C-instruction (compute instruction) does basic computation assign valuse to destination. <br />
 ```
 D = M+1 // where D and M are register
