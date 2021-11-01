@@ -2,7 +2,6 @@
 Assembler is a program which is a simple language translator (i.e convert assembly language to machine language)
 <!-- <img src="https://github.com/amarjeet-saini/amarjeet-saini.github.io/blob/master/assembly.png" alt="assembler" height="200" width="300"/> -->
 ![assembler](/static/assembly.png)
-
 [Project Link](https://github.com/amarjeet-saini/Hack-Assembler)
 
 ### Hack Assembler
