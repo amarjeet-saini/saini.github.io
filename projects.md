@@ -1,5 +1,5 @@
 # Projects
 
-* [System Projects](/projects/websites)
+* [System Projects](/projects/system-projects)
 * [Webscraping](/projects/webscraping)
 * [Misc](/projects/misc)
