@@ -10,11 +10,13 @@ program that translates programs written in the symbolic Hack assembly language 
 input file: xyz.asm <br /> 
 output file: xyz.hack <br /> 
 
-Hack assembly language consist of two types of instruction <br /> 
-##### A-instruction: @value
+Hack assembly language consist of two types of instruction <br />
+
+<strong>A-instruction: @value </strong> <br />
 A-instruction (addressing instruction) assigns value of const to register A i.e A <- const <br />
-ROM[A] register is selected (ROM : Read only memory act as instruction memory)  <br /> 
-##### C-instruction: dest=comp;jump
+ROM[A] register is selected (ROM : Read only memory act as instruction memory)  <br />
+
+<strong> C-instruction: dest=comp;jump </strong> <br />
 C-instruction (compute instruction) does basic computation assign valuse to destination. <br />
 ```
 D = M+1 // where D and M are register
