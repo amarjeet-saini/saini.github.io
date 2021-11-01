@@ -12,19 +12,25 @@ output file: xyz.hack <br />
 
 Hack assembly language consist of two types of instruction <br />
 
-<strong>A-instruction: @value </strong> <br />
+<ul> <strong><li>A-instruction: @value</strong></li> 
 A-instruction (addressing instruction) assigns value of const to register A i.e A <- const <br />
 ROM[A] register is selected (ROM : Read only memory act as instruction memory)  <br />
-
-<strong> C-instruction: dest=comp;jump </strong> <br />
+</ul>
+<ul> <strong><li>C-instruction: dest=comp;jump </strong></li> 
 C-instruction (compute instruction) does basic computation assign valuse to destination. <br />
+
 ```
 D = M+1 // where D and M are register
 ```
+
 We can also perform branching based on value comp and opcode jump
+
 ```
 D;JGT // if D > 0 jump to ROM[A]
 ```
+<br />
+</ul>
+
 ### How to build Hack Assembler 
 
 
