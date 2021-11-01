@@ -1,5 +1,6 @@
 # Connect With Me
 
-* [Github](https://github.com/jac08h)
-* [Youtube](https://www.youtube.com/channel/UCnDFT6mA3IZY2xz0bD42aMQ)
-* Email: **jac08h[alt+64]pm[alt+46]me**
+* [Github](https://github.com/amarjeet-saini)
+* [Twitter]()
+* [LinkedIn] (https://www.linkedin.com/in/amarjeetsaini/)
+* Email: [amarjeets167@gmail.com](mailto:amarjeets167@gmail.com)
