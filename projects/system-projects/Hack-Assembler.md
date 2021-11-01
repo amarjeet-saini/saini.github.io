@@ -1,8 +1,7 @@
 ### About Assembler
 Assembler is a program which is a simple language translator (i.e convert assembly language to machine language)
-<p>
-  <img src="https://github.com/amarjeet-saini/amarjeet-saini.github.io/blob/master/assembly.png" alt="assembler" height="200" width="300"/>
-</p>
+<!-- <img src="https://github.com/amarjeet-saini/amarjeet-saini.github.io/blob/master/assembly.png" alt="assembler" height="200" width="300"/> -->
+![assembler](/static/assembler.png)
 
 [Project Link](https://github.com/amarjeet-saini/Hack-Assembler)
 
@@ -13,7 +12,7 @@ output file: xyz.hack <br />
 
 Hack assembly language consist of two types of instruction <br /> 
 ##### A-instruction: @value
-A-instruction (addressing instruction) assigns value of const to register A i.e A <- const 
+A-instruction (addressing instruction) assigns value of const to register A i.e A <- const <br />
 ROM[A] register is selected (ROM : Read only memory act as instruction memory)  <br /> 
 ##### C-instruction: dest=comp;jump
 C-instruction (compute instruction) does basic computation assign valuse to destination. <br />
