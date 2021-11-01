@@ -13,7 +13,8 @@ output file: xyz.hack <br />
 Hack assembly language consist of two types of instruction <br />
 
 <ul> 
-  <strong><li>A-instruction: @value</li></strong> </ul>
+  <strong><li>A-instruction: @value</li></strong> 
+</ul>
     A-instruction (addressing instruction) assigns value of const to register A i.e A <- const <br /> 
     ROM[A] register is selected (ROM : Read only memory act as instruction memory)  
 
