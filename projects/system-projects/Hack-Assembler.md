@@ -4,8 +4,6 @@ Assembler is a program which is a simple language translator (i.e convert assemb
 
 <img src="/static/assembly.png" alt="assembler" height="200" width="300"/>
 
-![assembler](/static/assembly.png)
-
 [Project Link](https://github.com/amarjeet-saini/Hack-Assembler)
 
 ### Hack Assembler
