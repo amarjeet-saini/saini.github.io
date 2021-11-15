@@ -82,6 +82,6 @@ start from begining
 ##### 
    
 ### Resources
-[Nand2Tetris](https://www.nand2tetris.org/project06)
-[Hack assembler guide] (https://drive.google.com/file/d/1uKGRMnL-gqk9DsgeN50z0EpHoSMWe6F5/view)
+[Nand2Tetris](https://www.nand2tetris.org/project06) <br />
+[Hack assembler guide](https://drive.google.com/file/d/1uKGRMnL-gqk9DsgeN50z0EpHoSMWe6F5/view) <br />
 [Wiki](https://en.wikipedia.org/wiki/Assembly_language#Assembler)
