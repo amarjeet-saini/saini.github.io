@@ -2,5 +2,5 @@
 
 * [Hack assembler](/projects/Hack-Assembler.md)
 * [OSH shell](/projects/OSH-shell.md)
-* [Misc](/projects/misc)
-<!-- * [Webscraping](/projects/webscraping) -->
+* [p5 sketch](/projects/p5-sketch)
+
