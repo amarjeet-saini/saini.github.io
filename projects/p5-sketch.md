@@ -1,4 +1,4 @@
 # p5 Sketch
 
-* [Simple particle system](/projects/p5-sketch/simple-particle-system.md)
+* [Simple particle system](https://editor.p5js.org/amarjeet-saini/full/qI4H6VHRD)
 
